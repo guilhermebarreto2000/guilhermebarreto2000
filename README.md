@@ -4,7 +4,7 @@
 - 🔭 Estou trabalhando com Ciência de Dados
 - 🌱 Estudando Python, Power BI e SQL
 - 📫 Contate-me no e-mail: barretooliveiraguilherme@gmail.com
-- ⚡ A área de dados é incrível!
+- ⚡ "A tecnologia move o mundo".- Steve Jobs
   
 <br/>
 
