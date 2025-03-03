@@ -1,7 +1,7 @@
 ## Olá, eu sou o Guilherme.
 
 
-- 🔭 Estou trabalhando com Analista de Dados
+- 🔭 Estou trabalhando como Analista de Dados
 - 🌱 Estudando Python, Power BI e SQL
 - 📫 Contate-me no e-mail: barretooliveiraguilherme@gmail.com
 - ⚡ "A tecnologia move o mundo".- Steve Jobs
