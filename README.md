@@ -2,9 +2,9 @@
 
 
 - 🔭 Estou trabalhando como Analista de Dados
-- 🌱 Estudando Python, Power BI e SQL
+- 🌱 Estudando constantemente Python, Power BI, SQL, Excel e Estatística.
 - 📫 Contate-me no e-mail: barretooliveiraguilherme@gmail.com
-- ⚡ "A tecnologia move o mundo".- Steve Jobs
+- ⚡ "Data is the new oil".- Clive Humby
   
 <br/>
 
