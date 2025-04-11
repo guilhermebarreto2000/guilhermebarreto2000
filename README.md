@@ -1,4 +1,4 @@
-## Olá, eu sou o Guilherme.
+## Olá, eu sou  Guilherme.
 
 
 - 🔭 Estou trabalhando como Analista de Dados
